@@ -238,12 +238,5 @@ Key toggles:
 
 ---
 
-## Credits
-
-The original architecture and tutorial are by
-**[Sandeep Bharadwaj Mannapur](https://github.com/sandeepmb)**
-([freeCodeCamp handbook](https://www.freecodecamp.org/news/author/sandeep-mannapur/)).
-This version replaces Ollama with Mistral AI and updates the Langfuse 4.x integration.
-
 Maintained by [@fedy-benhassouna](https://github.com/fedy-benhassouna).
 Released under the [MIT License](LICENSE).
